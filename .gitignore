@@ -1,0 +1,8 @@
+*~
+*.bak
+*.orig
+.env
+public
+resources
+hugo_stats.json
+node_modules
