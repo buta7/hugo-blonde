@@ -7,6 +7,7 @@ tags = [
     "emoji",
 ]
 archives = ["2019/03"]
+image = "https://picsum.photos/id/1060/400/224"
 +++
 
 Emoji can be enabled in a Hugo project in a number of ways. 
