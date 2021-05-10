@@ -38,8 +38,8 @@ rm -fr .git/modules/blonde
 サイト設定
 
 ```shell
-cp -p themes/blonde/exampleSite/{config.toml .
-cp -pr themes/blonde/exampleSite/{content,data} .
+cp -p themes/blonde/exampleSite/config.toml .
+cp -pr themes/blonde/exampleSite/{content,static} .
 ```
 
 Node.jsパッケージのインストール
